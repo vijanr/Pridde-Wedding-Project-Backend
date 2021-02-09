@@ -1,2 +1,0 @@
-﻿# Pride Wedding Planners Project
- 
