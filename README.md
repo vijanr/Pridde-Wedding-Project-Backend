@@ -1,2 +1,2 @@
-﻿# Pride Wedding Planners Project Backend
+﻿# Pride Wedding Planners Project
  
